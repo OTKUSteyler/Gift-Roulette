@@ -1,9 +1,8 @@
 {
 	"format": 1,
-	"id": "com.example.always-errors",
-	"name": "Always Errors",
-	"description": "A plugin that always throws errors.",
-	"icon": "CircleErrorIcon",
+	"id": "com.btmc727.gifroulette",
+	"name": "GifRoulette",
+	"description": "Tempt fate and send a gif.",
 	"author": "btmc727",
 	"version": "1.0.0",
 	"dependencies": {
@@ -15,6 +14,6 @@
 		}
 	},
 	"dist": {
-		"script": "index.ts"
+		"script": "index.js"
 	}
 }
